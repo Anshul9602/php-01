@@ -41,6 +41,10 @@
        echo $variable2--;
        echo ++$variable1;
        echo --$variable1;
+        // logical op
+        $myVar =(true) and (true);
+        echo "<br>";
+         echo var_dump(myVar);
 
     ?>
     </div>
