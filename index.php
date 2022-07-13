@@ -15,7 +15,7 @@
         echo"hello everyone";          
         $variable1 =24;
         $variable2 =28;
-        echo $variable1
+        echo $variable1;
         echo "<br>";
         echo $variable2;
         echo "<br>";
@@ -31,8 +31,6 @@
         echo "the value of new variable is:";
         echo $newVar;
         echo "<br>";
-        echo *=2;
-        echo /=2;
         // comprazion op
         echo "the value of 1==4 is :";
         echo var_dump(1==4);
@@ -44,7 +42,7 @@
         // logical op
         $myVar =(true) and (true);
         echo "<br>";
-         echo var_dump(myVar);
+        echo var_dump(myVar);
 
     ?>
     </div>
